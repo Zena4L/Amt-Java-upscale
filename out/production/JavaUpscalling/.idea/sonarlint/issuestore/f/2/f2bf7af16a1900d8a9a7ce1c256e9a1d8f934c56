@@ -1,0 +1,22 @@
+
+Ž
+java:S1192."lDefine a constant instead of duplicating this literal "Invalid input. Please enter a valid number." 3 times.(ª¼ÔÃÿÿÿÿÿ8äò÷‹Õ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¦´óúÿÿÿÿ8‚¡ú‹Õ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Šþøùÿÿÿÿ8ç¶ú‹Õ1
+0
+java:S1220""Move this file to a named package.
+L	java:S106"+Replace this use of System.out by a logger.(€Ò¡Ûûÿÿÿÿ8†ô÷‹Õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(‚ÃÜõúÿÿÿÿ8ëò†ŒÕ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8†ô÷‹Õ1
+L	java:S106%"+Replace this use of System.out by a logger.(œ§¾‚øÿÿÿÿ8‘ô÷‹Õ1
+L	java:S106+"+Replace this use of System.out by a logger.(Žúä¸ýÿÿÿÿ8”ô÷‹Õ1
+L	java:S106."+Replace this use of System.out by a logger.(ª¼ÔÃÿÿÿÿÿ8”ô÷‹Õ1
+G	java:S1064"+Replace this use of System.out by a logger.(¡ûÇ8•ô÷‹Õ1
+L	java:S106:"+Replace this use of System.out by a logger.(½ç‚Øøÿÿÿÿ8•ô÷‹Õ1
+L	java:S106="+Replace this use of System.out by a logger.(ª¼ÔÃÿÿÿÿÿ8–ô÷‹Õ1
+L	java:S106C"+Replace this use of System.out by a logger.(Ç¸½¨ýÿÿÿÿ8–ô÷‹Õ1
+L	java:S106I"+Replace this use of System.out by a logger.(Ñ£ø¾øÿÿÿÿ8—ô÷‹Õ1
+L	java:S106L"+Replace this use of System.out by a logger.(ª¼ÔÃÿÿÿÿÿ8—ô÷‹Õ1
+P
+java:S1128"3Remove this unused import 'java.text.NumberFormat'.(¿¸ž»8´ýˆŒÕ1
