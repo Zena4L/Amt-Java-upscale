@@ -1,13 +1,7 @@
 
-j
-java:S1192
-"HDefine a constant instead of duplicating this literal "Number:" 3 times.(ö—ôÉÿÿÿÿÿ8…¢ŒÕ1
 7
-java:S1220""Move this file to a named package.8òÑ¢ŒÕ1
-L	java:S106
-"+Replace this use of System.out by a logger.(ö—ôÉÿÿÿÿÿ8–¢ŒÕ1
-F	java:S106"+Replace this use of System.out by a logger.(ï›«18—¢ŒÕ1
-L	java:S106"+Replace this use of System.out by a logger.(ö—ôÉÿÿÿÿÿ8—¢ŒÕ1
-G	java:S106"+Replace this use of System.out by a logger.(¹§ŒÎ8—¢ŒÕ1
-L	java:S106"+Replace this use of System.out by a logger.(ö—ôÉÿÿÿÿÿ8˜¢ŒÕ1
-L	java:S106"+Replace this use of System.out by a logger.(›Ğ¯¤ÿÿÿÿÿ8˜¢ŒÕ1
+java:S1220""Move this file to a named package.8¬ÅşéØ1
+F	java:S106"+Replace this use of System.out by a logger.(‡õß8¾ÅşéØ1
+G	java:S106"+Replace this use of System.out by a logger.(šÛ¶¸8¿ÅşéØ1
+L	java:S106"+Replace this use of System.out by a logger.(ª¼ÔÃÿÿÿÿÿ8‹ÑÿéØ1
+L	java:S106"+Replace this use of System.out by a logger.(ú¸ëİúÿÿÿÿ8ä¸êØ1

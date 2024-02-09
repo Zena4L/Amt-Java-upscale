@@ -1,3 +1,4 @@
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 
@@ -7,20 +8,23 @@ public class FizzBuzzChallenge {
         Scanner scanner = new Scanner(System.in);
         FizzBuzzCalculator fizzBuzzCalculator = new FizzBuzzCalculator();
 
-        System.out.println("Number:");
-        int numberOne = scanner.nextInt();
-        String resultOne = fizzBuzzCalculator.calculateFizzBuzz(numberOne);
-        System.out.println(resultOne);
+        while (true) {
+            System.out.println("Enter a number ");
+            int number = scanner.nextInt();
+            try {
+                System.out.println(fizzBuzzCalculator.calculateFizzBuzz(number));
+            } catch (InputMismatchException e) {
+                System.out.println("Invalid input. Please enter a valid number.");
+                scanner.nextLine();
+            }
 
-        System.out.println("Number:");
-        int numberTwo = scanner.nextInt();
-        String resultTwo = fizzBuzzCalculator.calculateFizzBuzz(numberTwo);
-        System.out.println(resultTwo);
+            System.out.println("Do you want to do another challenge (yes/no)?");
+            String message = scanner.next();
 
-        System.out.println("Number:");
-        int numberThree = scanner.nextInt();
-        String resultThree = fizzBuzzCalculator.calculateFizzBuzz(numberThree);
-        System.out.println(resultThree);
+            if ("no".equals(message)) {
+                break;
+            }
+        }
 
         scanner.close();
     }
